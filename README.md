@@ -13,6 +13,7 @@
 
 # V2ray+Cloudflare+BBR
 > BBR
+
     wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 
 > V2ray
