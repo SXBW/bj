@@ -33,11 +33,11 @@ SSL/TLS:完全
 
 
 # 宝塔命令
-### 宝塔关闭安全入口 ###
+### 宝塔关闭安全入口 
 ```sh
 rm -f /www/server/panel/data/admin_path.pl
 ```
-### 卸载宝塔：###
+### 卸载宝塔：
 ```sh
 wget http://download.bt.cn/install/bt-uninstall.sh
 sh bt-uninstall.sh
