@@ -73,3 +73,24 @@ bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
 ```php
     博主 <?php get_last_login(1); ?> 在线
 ```
+
+
+
+
+# fastboot
+
+> 
+
+    fastboot flash recovery_ab
+
+    fastboot flash boot_ab
+
+    fastboot flash init_boot_ab
+
+
+    fastboot getvar current-slot
+    (查询槽位)
+    fastboot set_active a
+    (切换槽位) 
+
+
